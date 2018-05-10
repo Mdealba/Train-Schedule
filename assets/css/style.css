@@ -1,0 +1,15 @@
+body {
+   font-family: 'Marck Script', cursive;
+}
+
+.jumbotron {
+    background-color: #42bcf4;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;  
+}
